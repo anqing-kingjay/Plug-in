@@ -19,3 +19,7 @@ https://github.com/liriliri/eruda
 qrcode               
 一个生成二维码的JavaScript库，支持canvas和table两张渲染方式。然儿并没有jquery之类的依赖。
 https://github.com/davidshimjs/qrcodejs
+
+store.js                        
+本地存储localstorage的封装        
+http://wangchujiang.com/store.js/
