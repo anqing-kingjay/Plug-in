@@ -26,3 +26,7 @@ http://wangchujiang.com/store.js/
 # verify
 纯前端的各种验证码插件                           
 http://www.jq22.com/jquery-info16711
+
+# placeholder
+解决ie9及以下placeholder兼容问题 <br>
+https://github.com/mathiasbynens/jquery-placeholder
