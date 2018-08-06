@@ -30,3 +30,6 @@ http://www.jq22.com/jquery-info16711
 # placeholder
 解决ie9及以下placeholder兼容问题 <br>
 https://github.com/mathiasbynens/jquery-placeholder
+
+# loading
+https://github.com/duyanpeng/vue-quick-loadmore
